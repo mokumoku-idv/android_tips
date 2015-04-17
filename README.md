@@ -13,5 +13,12 @@ I understand following link
 
 * http://individualmemo.blog104.fc2.com/blog-entry-41.html
 * Application context is whole application however activity context is within activity. 
+* 
+
+## How to use google analytics
+I think the following sites are to easily understand
+
+* http://dolciss.net/2014/08/androidstudio-googleanalyticsv4/
+* http://dev.classmethod.jp/smartphone/android/google-analytics-android-screen-tracking/
 
 
