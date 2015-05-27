@@ -26,5 +26,8 @@ I think the following sites are to easily understand
 * it can also add new converter which is not included within Gson.
 ** http://stackoverflow.com/questions/28733024/gson-deserialization-of-liststring-into-realmlistrealmstring
 
+## you want to pass java object to next fragment when fragment transision is
+http://yusuke-hata.hatenablog.com/entry/2014/12/01/002040
+
 
 
