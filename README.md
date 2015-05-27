@@ -21,4 +21,10 @@ I think the following sites are to easily understand
 * http://dolciss.net/2014/08/androidstudio-googleanalyticsv4/
 * http://dev.classmethod.jp/smartphone/android/google-analytics-android-screen-tracking/
 
+## Gson
+* it is to convert between 'java object' and Gson.
+* it can also add new converter which is not included within Gson.
+** http://stackoverflow.com/questions/28733024/gson-deserialization-of-liststring-into-realmlistrealmstring
+
+
 
